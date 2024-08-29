@@ -10,8 +10,6 @@ This project is a Next.js application integrated with Tailwind CSS. It also uses
 - [Usage](#usage)
 - [Font Setup](#font-setup)
 - [Development](#development)
-- [Deployment](#deployment)
-- [License](#license)
 
 ## Installation
 
@@ -81,3 +79,4 @@ src/
 │ ├── success.png
 │ ├── user_logo.png
 │ ├── woman.png
+.
