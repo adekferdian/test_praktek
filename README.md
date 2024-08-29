@@ -2,13 +2,12 @@
 
 # Link demo: https://test-praktek.vercel.app/
 
-This project is a Next.js application integrated with Tailwind CSS. It also uses the Google Fonts `Poppins` and `Baloo` for styling text.
+This project is a Next.js application integrated with Tailwind CSS. It also uses the Google Fonts `Poppins` and `Baloo` for styling text, `react-slick` for slider, `react-feather` for icon.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Font Setup](#font-setup)
 - [Development](#development)
 
 ## Installation
