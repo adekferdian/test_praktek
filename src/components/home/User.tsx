@@ -34,7 +34,7 @@ const UserHome = () => {
         </div>
       </div>
       <div className="w-full p-4 flex flex-col gap-2 border border-light rounded-lg shadow-sm shadow-black">
-        <p className="font-semibold text-[16px]">Today's activity</p>
+        <p className="font-semibold text-[16px]">{`Today's activity`}</p>
         <div className="flex flex-row justify-between">
           <div className="flex flex-col gap-2 items-center">
             <Clock width={30} height={30} className="text-main" />
